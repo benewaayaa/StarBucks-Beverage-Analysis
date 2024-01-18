@@ -1,5 +1,3 @@
-# STARBUCKS BEVERAGE ANALYSIS 
-
 # QUESTIONS 
 
 ## Key Performance Indicators (KPIs)
