@@ -98,5 +98,5 @@ No pictures here, but this was my ideation process for creating the dashboard:
 
 # THIS IS A VIDEO RECORDING OF THE DASHBOARD
 
-![Video](StarBucks-Beverage-Analysis/assets/143474652/9005dda3-cda1-4a71-af6b-4563dd2ee956)
+![Video](https://github.com/benewaayaa/StarBucks-Beverage-Analysis/assets/143474652/f1b610be-3c39-453d-bb5a-b72571a2900f)
 
