@@ -38,7 +38,7 @@ PROCESS
 The Key Performance Indicator (KPI) illustrates the cumulative values of Trans Fat, Cholesterol, and Calories. The purpose of this KPI is to showcase the combined Trans Fat, Cholesterol, and Caloric content of a chosen beverage or a selection of beverages. In this scenario, the total summation is calculated for all the selected beverages.
 
 
-Clustered Bar Chart (Beverage Category vs. Sum of Nutrition):
+# Clustered Bar Chart (Beverage Category vs. Sum of Nutrition):
 
  ![Screenshot](images/5.png)
 
@@ -78,6 +78,7 @@ No pictures here, but this was my ideation process for creating the dashboard:
 # Key Takeaways from the Data
 
 •	The Key Performance Indicator (KPI) provides a comprehensive view of Trans Fat, Cholesterol, and Caloric content, emphasizing the cumulative values for selected beverages.
+
 •	Calcium distribution across Starbucks beverage categories reveals Classic Espresso Drinks leading at 15.86g, while Smoothies excel in Vitamin C at 5.85g.
 
 
