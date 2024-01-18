@@ -5,24 +5,20 @@
 1.	Key Performance Indicators (KPIs):
 •	What are the total amounts of Trans Fat, Calories, and Cholesterol in the Starbucks beverages?
 
-
 •	How can we visually represent these KPIs to quickly grasp the overall nutritional impact of Starbucks beverages?
 
 3.	Clustered Bar Chart (Beverage Category vs. Sum of Nutrition):
 •	What is the distribution of key nutrients (Calcium, Vitamin A, Vitamin C) across different beverage categories?
-
 
 •	How do the nutritional components vary between various Starbucks beverage categories?
 
 5.	Stacked Bar Chart (Beverage Prep vs. Sum of Protein, Iron, Sugar, Sodium):
 •	How does the nutritional content (Protein, Iron, Sugar, Sodium) differ across various beverage preparations?
 
-
 •	Can we represent the contribution of individual nutrients within each beverage preparation?
 
 7.	Clustered Column Chart (Beverage vs. Total Fat and Total Carbohydrate):
 •	What is the comparative analysis of Total Fat and Total Carbohydrate content in different Starbucks beverages?
-
 
 •	How do these macronutrients contribute to the overall nutritional profile of each beverage?
 
@@ -102,5 +98,5 @@ No pictures here, but this was my ideation process for creating the dashboard:
 
 # THIS IS A VIDEO RECORDING OF THE DASHBOARD
 
-!https://github.com/benewaayaa/StarBucks-Beverage-Analysis/assets/143474652/9005dda3-cda1-4a71-af6b-4563dd2ee956
+https://github.com/benewaayaa/StarBucks-Beverage-Analysis/assets/143474652/9005dda3-cda1-4a71-af6b-4563dd2ee956
 
