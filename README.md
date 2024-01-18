@@ -29,7 +29,7 @@ In my project, I employed Microsoft Power BI to craft an interactive dashboard f
 PROCESS
 
 # KPI Section (Trans Fat, Calories, Cholesterol):
-
+![Screenshot].1 
 
 
 # FINDINGS
