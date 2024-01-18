@@ -93,4 +93,4 @@ No pictures here, but this was my ideation process for creating the dashboard:
 
 # THIS A VIDEO RECORDING OF THE DASHBOARD
 
-
+https://github.com/benewaayaa/StarBucks-Beverage-Analysis/issues/1#issue-2088380212
