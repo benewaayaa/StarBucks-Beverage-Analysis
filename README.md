@@ -29,7 +29,8 @@ In my project, I employed Microsoft Power BI to craft an interactive dashboard f
 PROCESS
 
 # KPI Section (Trans Fat, Calories, Cholesterol):
-![Screenshot]images/1.png
+
+![Screenshot](images/1.png)
 
 
 # FINDINGS
@@ -39,7 +40,7 @@ The Key Performance Indicator (KPI) illustrates the cumulative values of Trans F
 
 Clustered Bar Chart (Beverage Category vs. Sum of Nutrition):
 
- 
+ ![Screenshot](images/5.png)
 
 # FINDINGS
 
@@ -47,7 +48,7 @@ The distribution of key nutrients (Calcium, Vitamin A, Vitamin C) across various
 
 # Stacked Bar Chart (Beverage Prep vs. Sum of Protein, Iron, Sugar, Sodium):
 
-
+![Screenshot](images/6.png)
  
 
 
@@ -58,8 +59,7 @@ The Starbucks data highlights substantial variations in nutritional content acro
 
 # Clustered Column Chart (Beverage vs. Total Fat and Total Carbohydrate):
 
- 
-
+![Screenshot](images/3.png)
 
 # FINDINGS
 
