@@ -40,7 +40,8 @@ The project's objective is to conduct a thorough nutritional analysis of Starbuc
 ## METHOD
 
 In my project, I employed Microsoft Power BI to craft an interactive dashboard for the Starbucks beverage dataset. Utilizing KPIs, clustered bar charts, stacked bar charts, and clustered column charts, I visually explored nutrition, nutrient distribution, and macronutrient contributions.
-PROCESS
+
+## PROCESS TAKEN TO ACHIEVE MY GOALS
 
 ## KPI Section (Trans Fat, Calories, Cholesterol):
 
